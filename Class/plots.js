@@ -85,6 +85,7 @@ var data = [trace]
 // Define our plot layout
 var layout = {
   title: "Bar Chart",
+  
 };
 
 
